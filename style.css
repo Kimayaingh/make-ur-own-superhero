@@ -1,15 +1,9 @@
-.body_background 
-{
-    background-image: "hi.jpeg"
-    background-position: center;
-    background-size: cover;
-}
+
 #mycanvas
 {
     border-width:10px;
     background-color: white; 
     border-style:ridge;
-	background-image: url("hi.jpeg");
 }
 
 h2
